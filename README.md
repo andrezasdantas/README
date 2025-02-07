@@ -12,17 +12,19 @@
 
 
 ### Que bom ver você aqui!  
-*Migrando do marketing para a área de QA, combino minha experiência em estratégia de projetos, marketing, vendas e web design com a garantia da qualidade de software. Meu foco é analisar e otimizar processos, garantindo soluções eficientes e alinhadas ao mercado. Busco aplicar meu olhar crítico e estratégico no desenvolvimento de produtos digitais. Aberto(a) a conexões e oportunidades na área de QA!*  
+*Migrando do marketing para a área de QA, combino minha experiência em estratégia de projetos, marketing, vendas e web design com a garantia da qualidade de software. Meu foco é analisar e otimizar processos, garantindo soluções eficientes e alinhadas ao mercado. Busco aplicar meu olhar crítico e estratégico no desenvolvimento de produtos digitais. Aberta a conexões e oportunidades na área de QA!*  
   
 
 <br/>  
 
 
-## Rapidfire  
+## Oque tenho feito:
 <table><tr><td valign="top" width="50%">
 
-- 🌱 Atualmente estou aprendendo Python, Java e Selenium  
-
+- 🌱 Atualmente estou aprendendo Python, Java e Selenium
+- 🎮 Gamer
+- 👨‍💻 Curiosa
+- 🎯 Focada
 
 </td><td valign="top" width="50%">
 
