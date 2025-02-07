@@ -19,14 +19,14 @@
 
 
 ## Oque tenho feito:
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 🌱 Atualmente estou aprendendo Python, Java e Selenium
 - 🎮 Gamer
 - 👨‍💻 Curiosa
 - 🎯 Focada
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
