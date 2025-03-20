@@ -21,5 +21,5 @@ Minha transição de carreira vem da minha experiência com **estratégia de pro
 ## 📫 Vamos nos conectar?  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/andrezasdantas)  
-📧 **Email:** andrezadantas@gmail.com 
+📧 **Email:** contato.andrezadantas@gmail.com 
 
